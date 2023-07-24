@@ -30,3 +30,17 @@ Create your final presentation:
 Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 
 Ensure your presentation is professional, logical, and visually appealing.
+
+## Tableau Public
+Please find the link below for Tableau analysis:
+
+https://public.tableau.com/app/profile/chun.zhao7181/viz/Citibike_16895694503480/Story1
+
+## Analysis
+On User Dashboard, as depicted in the above charts, indicates that for 2018-2021 subscribers are the main user types of Citi bike and among the users, Male is the major user group. 
+
+On Trip Analysis Dashboard, Total Trips by Year& by Month reveals that the highest usage of bicycles occurs during the summer months of July, August, and September, in comparison to the winter months. And bicycle usage peaked in 2019, while a marked decrease was observed in 2020, which may be due to pandemic restrictions at the same period.
+
+On Top Stations Dashboard, it indicates that City Hall is the most frequently used station to start trip and Grove St PATH is the most frequently used station for ending trips.
+
+On the Station Map Dashboard, it shows the most frequently used stations are primarily in the zip codes 07302 and 07310. It indicates that the residents of Jersey City are most likely utilizing the bicycle-sharing service for daily commutes, which is potentially due to its cost-effectiveness when compared to other transportation options. 
